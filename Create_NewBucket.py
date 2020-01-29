@@ -8,4 +8,4 @@ import boto3
 s3 = boto3.client('s3')
 
 #Create a new bucket
-s3.create_bucket(Bucket = 'keimmiebooth123456')
+s3.create_bucket(Bucket = 'InsertTheBucketNameBetweenTheQuotes')
